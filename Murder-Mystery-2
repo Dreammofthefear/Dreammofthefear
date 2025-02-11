@@ -1,0 +1,3 @@
+Murder Mystery 2 script - Vertex hub
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring"))()
